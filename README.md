@@ -33,6 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuttieflame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuttieflame)](https://github.com/anuraghazra/github-readme-stats)
-Также...
+
 работал с Stripe(api),centrifugo(real-time chat)
 Ищу работу junior laravel(телеграм-cuttieflame)
