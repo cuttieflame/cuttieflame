@@ -31,8 +31,3 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuttieflame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuttieflame)](https://github.com/anuraghazra/github-readme-stats)
-
-работал с Stripe(api),centrifugo(real-time chat) <br>
-Ищу работу junior laravel(телеграм-cuttieflame)
