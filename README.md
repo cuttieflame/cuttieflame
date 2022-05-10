@@ -1,4 +1,4 @@
-<h1>I'm <a href="https://daniilshat.ru/" target="_blank">Viktor,18yo</a></h1>
+<h1>I'm Viktor,18yo</h1>
 <h3>PHP developer 🇷🇺</h3>
 
 <h3>BACK</h3>
